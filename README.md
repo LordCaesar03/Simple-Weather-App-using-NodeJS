@@ -1,1 +1,1 @@
-I made a minimal weather app using NodeJS, used the OpenWeatherAPI for the the data fetching.
+Made a minimal weather app using NodeJS, used the OpenWeatherAPI for the the data fetching.
